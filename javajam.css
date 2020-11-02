@@ -93,7 +93,7 @@ tr:nth-last-of-type(odd){ background-color: #D2B48E;}
 			background-repeat: no-repeat;
 			background-size: 100% 100%;}
 form { display: flex;
-		flex-direction: colum;
+		flex-direction: column;
 		padding-left: 1em; width: 80%; }
 input, textarea { margin-bottom: .5em; }
 
